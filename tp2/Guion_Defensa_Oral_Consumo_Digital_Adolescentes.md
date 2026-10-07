@@ -9,9 +9,11 @@
 
 ## Guion para la defensa oral (5 minutos)
 
+Buenas tardes. Nosotros somos el grupo de trabajo n2, conformado por los siguientes colaboradores: Javier Carabajal, Gisela Martinez, Noelia Cualina y quien les habla Leonardo Carabajal.-
+
 ### 1. Introducción y problema de investigación — 0:00 a 0:50
 
-Buenas tardes. Nuestro trabajo aborda el consumo digital en adolescentes de entre 12 y 18 años, desde una perspectiva de Aprendizaje Automático.
+Nuestro trabajo aborda el consumo digital en adolescentes de entre 12 y 18 años, desde una perspectiva de Aprendizaje Automático.
 
 Partimos de una idea: hoy el uso de pantallas forma parte de la vida cotidiana de los adolescentes, pero no todos las utilizan de la misma manera.
 
